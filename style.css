@@ -1,0 +1,24 @@
+body{
+ text-align: center;
+ background-color: #880f9f;
+  
+}
+a{
+  text-decoration: none;
+  
+}
+.profile-pic{
+  width: 50%;
+  border-radius: 50%;
+}
+.btn{
+  display: block;
+  color: black;
+  padding: 10px;
+  background: white;
+  margin: 16px;
+  box-shadow: 10px 10px #888888;
+}
+.youtube{
+  color: red;
+}
